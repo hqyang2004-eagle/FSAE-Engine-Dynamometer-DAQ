@@ -1,2 +1,2 @@
 # FSAE-Engine-Dynamometer-DAQ
-Independently developed MATLAB/Simulink-based DAQ, monitoring, and visualization system for an FSAE engine dynamometer.
+Independently designed and developed the MATLAB/Simulink-based data acquisition, monitoring, visualization, and diagnostic software for the NAU DynoForge engine dynamometer capstone project.
